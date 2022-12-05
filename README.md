@@ -1,11 +1,6 @@
-# Web-CV-Zahra-Kharisma-Sangha
 <html>
 <head>
     <title> UTS DESAIN APLIKASI WEB </title>
-    <style type = text/css>
-		h1{ color : #2F3135; font-family:arial black;font-size:28px }
-		h2{ color : #2F3135; text-decoration:none; font-family: cambria;font-size:18px }
-	</style>
 </head>
 <h1  align=center > CURRICULUM VITAE</h1>
 <br>
@@ -64,19 +59,15 @@
 	<tr><ol>
 		<td><li>SDN 1 Gotong Royong</td>
             <td>: 2009 - 2015</li></td>
-	</ol></tr>
     <tr><ol>
         <td><li>SMPN 25 Bandar Lampung</td>
             <td>: 2015 - 2018</li></td>
-    </ol></tr>
     <tr><ol>
         <td><li>SMAN 2 Bandar Lampung</td>
             <td>: 2018 - 2021</li></td>
-    </ol></tr>
 	<tr><ol>
         <td><li> Universitas Teknokrat Indonesia</td>
 		<td>: 2021 - 2024</li></td>
-	</ol></tr>
     <tr> 
         <td>Prodi S1 Teknologi Informasi</td>
     </tr>
@@ -86,8 +77,6 @@
     <tr><ol>
         <td><li>Himpunan Mahasiswa Teknologi Informasi</td>
             <td>:Selama menjadi mahasiswa aktif</li></td>
-    </ol></tr>
-    
     <tr>
         <td><h3><b>Motto</b></h3></td>
             <td><h3><b>: Do the best, be the best and for the best</b></h3></td>
@@ -98,5 +87,3 @@
 <p>
 <br>
 <h3 align=center>zahrakhrs, 2022</h3>
-</body>
-</html>
