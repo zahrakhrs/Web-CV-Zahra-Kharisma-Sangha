@@ -58,16 +58,16 @@
         </tr>
 	<tr><ol>
 		<td><li>SDN 1 Gotong Royong</td>
-            <td>: 2009 - 2015</li></td>
+            <td>: 2009 - 2015</td>
     <tr><ol>
         <td><li>SMPN 25 Bandar Lampung</td>
-            <td>: 2015 - 2018</li></td>
+            <td>: 2015 - 2018</td>
     <tr><ol>
         <td><li>SMAN 2 Bandar Lampung</td>
-            <td>: 2018 - 2021</li></td>
+            <td>: 2018 - 2021</td>
 	<tr><ol>
         <td><li> Universitas Teknokrat Indonesia</td>
-		<td>: 2021 - 2024</li></td>
+		<td>: 2021 - 2024</td>
     <tr> 
         <td>Prodi S1 Teknologi Informasi</td>
     </tr>
@@ -76,13 +76,12 @@
     </tr>
     <tr><ol>
         <td><li>Himpunan Mahasiswa Teknologi Informasi</td>
-            <td>:Selama menjadi mahasiswa aktif</li></td>
+            <td>:Selama menjadi mahasiswa aktif</td>
     <tr>
         <td><h3><b>Motto</b></h3></td>
             <td><h3><b>: Do the best, be the best and for the best</b></h3></td>
     </tr>
    
-</table>
 <p>
 <p>
 <br>
