@@ -49,7 +49,7 @@
 	</tr>
 	<tr>
 		<td>Email </td>
-			<td><a href=zahrakharismasangha@gmail.com>: zahrakharismasangha@gmail.com</a></td>
+			<td>zahrakharismasangha@gmail.com</td>
 
 	</tr>
 
@@ -57,26 +57,26 @@
 		<td><h2>Riwayat Pendidikan</h2></td>
         </tr>
 	<tr><ol>
-		<td><li>SDN 1 Gotong Royong</td>
+		<td><li>SDN 1 Gotong Royong
             <td>: 2009 - 2015</td>
     <tr><ol>
-        <td><li>SMPN 25 Bandar Lampung</td>
+        <td><li>SMPN 25 Bandar Lampung
             <td>: 2015 - 2018</td>
     <tr><ol>
-        <td><li>SMAN 2 Bandar Lampung</td>
+        <td><li>SMAN 2 Bandar Lampung
             <td>: 2018 - 2021</td>
 	<tr><ol>
-        <td><li> Universitas Teknokrat Indonesia</td>
+        <td><li> Universitas Teknokrat Indonesia
 		<td>: 2021 - 2024</td>
     <tr> 
-        <td>Prodi S1 Teknologi Informasi</td>
+        <td>Prodi S1 Teknologi Informasi
     </tr>
     <tr>
-        <td><h2><b>Riwayat Organisasi</b></h2></td>
+        <td><h2><b>Riwayat Organisasi</b></h2>
     </tr>
     <tr><ol>
-        <td><li>Himpunan Mahasiswa Teknologi Informasi</td>
-            <td>:Selama menjadi mahasiswa aktif</td>
+        <td><li>Himpunan Mahasiswa Teknologi Informasi
+            <td>: Selama menjadi mahasiswa aktif</td>
     <tr>
         <td><h3><b>Motto</b></h3></td>
             <td><h3><b>: Do the best, be the best and for the best</b></h3></td>
@@ -85,4 +85,3 @@
 <p>
 <p>
 <br>
-<h3 align=center>zahrakhrs, 2022</h3>
