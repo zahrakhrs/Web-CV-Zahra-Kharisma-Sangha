@@ -70,17 +70,14 @@
 		<td>: 2021 - 2024</td>
     <tr> 
         <td>Prodi S1 Teknologi Informasi
-    </tr>
     <tr>
         <td><h2><b>Riwayat Organisasi</b></h2>
-    </tr>
     <tr><ol>
         <td><li>Himpunan Mahasiswa Teknologi Informasi
             <td>: Selama menjadi mahasiswa aktif</td>
     <tr>
         <td><h3><b>Motto</b></h3></td>
             <td><h3><b>: Do the best, be the best and for the best</b></h3></td>
-    </tr>
    
 <p>
 <p>
